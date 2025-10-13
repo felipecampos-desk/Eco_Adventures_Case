@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1.png" alt="Eco Adventures Logo" width="180"/>
+  <img src="assets\eco_adventures_logo.png" alt="Eco Adventures Logo" width="200"/>
 </p>
 
 # Eco Adventures — Data Model & Analytics Project
