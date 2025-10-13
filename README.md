@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets\eco_adventures_logo.png" alt="Eco Adventures Logo" width="200"/>
+  <img src="assets\eco_adventures_logo.png" alt="Eco Adventures Logo" width="300"/>
 </p>
 
 # Eco Adventures — Data Model & Analytics Project
@@ -69,5 +69,6 @@ A construção deste modelo analítico para a Eco Adventures representou não ap
 
 Agradeço a todos que, direta ou indiretamente, contribuíram de alguma forma.
 Cada etapa foi essencial para transformar conceitos em algo concreto — um projeto capaz de gerar insights reais e impacto positivo.
+
 
 *“Projetos como este reforçam o poder dos dados quando aplicados a um propósito ecológico: apoiar e promover uma forma de turismo mais consciente e sustentável.”* 🌱
