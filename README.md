@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets\eco_adventures_logo.png" alt="Eco Adventures Logo" width="210"/>
+  <img src="assets\eco_adventures_logo.png" alt="Eco Adventures Logo" width="250"/>
 </p>
 
 # Eco Adventures — Data Model & Analytics Project
@@ -9,6 +9,17 @@ Bem-vindo ao repositório do projeto de modelagem de dados e análise estratégi
 A Eco Adventures é uma plataforma dedicada à valorização do turismo sustentável no Brasil. Nossa missão é conectar viajantes a operadores locais que oferecem experiências ecológicas, hospedagens responsáveis e roteiros que respeitam o meio ambiente.
 
 O objetivo deste projeto é construir uma base analítica sólida que permita à Eco Adventures realizar análises futuras, acompanhar o desempenho da plataforma e tomar decisões orientadas por dados.
+
+## 🎥 **Apresentação em Vídeo**
+
+Nesta seção estão disponíveis os vídeos de **apresentação e demonstração do projeto**, publicados no YouTube.  
+Eles explicam o processo de modelagem, os principais insights extraídos e as conclusões obtidas.
+
+> 🔗 *Clique nos links abaixo para assistir:*
+
+- [Apresentação da Plataforma & KPIS e Dashboards](https://www.youtube.com/watch?v=RSBOo8w0Xpg)
+- [Análise e Insights](https://www.youtube.com/watch?v=buHKPIl1gT8)
+- [Conclusão e Recomendações](https://www.youtube.com/watch?v=GyPFfJefhxo)
 
 ## 🧩 Visão Geral do Projeto
 
@@ -70,6 +81,4 @@ A construção deste modelo analítico para a Eco Adventures representou não ap
 Agradeço a todos que, direta ou indiretamente, contribuíram de alguma forma.
 Cada etapa foi essencial para transformar conceitos em algo concreto — um projeto capaz de gerar insights reais e impacto positivo.
 
-
 *“Projetos como este reforçam o poder dos dados quando aplicados a um propósito ecológico: apoiar e promover uma forma de turismo mais consciente e sustentável.”* 🌱
-
